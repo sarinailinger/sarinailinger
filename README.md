@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! I'm Leah, a software engineering student who is passionate about building innovative solutions and researching new technologies. Here is a glimpse of my skills and experience:
+Hi there! I'm sari, a software engineering student who is passionate about building innovative solutions and researching new technologies. Here is a glimpse of my skills and experience:
 
 
 
@@ -22,9 +22,9 @@ Hi there! I'm Leah, a software engineering student who is passionate about build
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/WebAPI" target="_blank"> <img src="https://img.icons8.com/color/48/000000/api.png" alt="Web API" width="40" height="40"/> </a>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeaWeiss206&show_icons=true&locale=en&layout=compact&theme=dracula" alt="LeaWeiss206" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarinailinger&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sarinailinger" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeaWeiss206&show_icons=true&locale=en&theme=dracula" alt="LeaWeiss206" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarinailinger&show_icons=true&locale=en&theme=dracula" alt="sarinailinger" />
 </p>
