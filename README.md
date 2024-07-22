@@ -18,6 +18,4 @@ Hi there! I'm sari, a software engineering student who is passionate about build
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarinailinger&show_icons=true&locale=en&theme=dracula" alt="sarinailinger" />
-</p>
+
