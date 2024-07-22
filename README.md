@@ -17,5 +17,7 @@ Hi there! I'm sari, a software engineering student who is passionate about build
 <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
 
-
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarinailinger&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sarinailinger" />
+</p>
 
