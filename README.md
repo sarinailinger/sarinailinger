@@ -17,6 +17,15 @@ Hi there! I'm sari, a software engineering student who is passionate about build
 <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
 
+
+[<img align="left" alt="Python" width="30px" src="https://www.python.org/static/opengraph-icon-200x200.png" />](https://www.python.org/)
+[<img align="left" alt="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
+
+<br />
+<br />
+
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarinailinger&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sarinailinger" />
 </p>
