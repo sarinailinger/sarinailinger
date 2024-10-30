@@ -1,6 +1,6 @@
 # About Me
 
- I'm sari, a software engineering student who is passionate about building innovative solutions and researching new technologies. Here is a glimpse of my skills and experience:
+ Hi there! I'm sari, a software engineering student who is passionate about building innovative solutions and researching new technologies. Here is a glimpse of my skills and experience:
 
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank">
